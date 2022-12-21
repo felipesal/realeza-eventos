@@ -8,7 +8,7 @@
 }
 
 .action.-button {
-    border: 2px solid var(--black1);
+    border: 3px solid var(--black1);
     padding: 10px;
     border-radius: 21px;
     transition: 0.6s all;
