@@ -13,6 +13,20 @@
     border-bottom: 10px solid var(--color2);
 }
 
+.main-section.-marsala {
+    background-color: var(--color1);
+    border-bottom: 10px solid var(--black1);
+    align-items: center;
+}
+
+.main-section.-marsala .wrapper{
+    flex-direction: row;
+    align-items: stretch;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 60px;
+}
+
 .main-section .wrapper {
     display: flex;
     flex-direction: column;

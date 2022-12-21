@@ -5,5 +5,13 @@
     font-weight: regular;
     font-size: 80px;
     text-align: center;
+    
+}
+
+.main-title.-banner {
     padding-top: 460px;
+}
+
+.main-title.-inbox {
+    padding-top: 40px;
 }
