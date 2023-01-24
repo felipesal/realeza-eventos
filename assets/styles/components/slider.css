@@ -1,5 +1,5 @@
-.team-img {
+.slider {
     width: 650px;
     height: 650px;
-    object-fit: cover;
+    padding-right: 150px;
 }
