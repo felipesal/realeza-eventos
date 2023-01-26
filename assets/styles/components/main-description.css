@@ -6,3 +6,8 @@
     font-size: 25px;
     color: #fff;
 }
+
+.main-description.-marsala{
+    color: var(--color1);
+    padding-right: 0px;
+}

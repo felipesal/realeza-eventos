@@ -3,3 +3,11 @@
     height: 650px;
     padding-right: 150px;
 }
+
+.slider.-depoiments {
+    padding-right: 0px;
+}
+
+.slider .item-slider {
+    padding-top: 80px;
+}

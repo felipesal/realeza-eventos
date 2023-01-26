@@ -15,6 +15,10 @@
     margin-right: 320px;
 }
 
+.main-title.-marsala{
+    color: var(--color1);
+}
+
 .main-title.-inbox {
     padding-top: 40px;
 }
