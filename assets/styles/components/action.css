@@ -18,3 +18,7 @@
     background-color: var(--black1);
     color: var(--color1);
 }
+
+.action.-socialNetwork{
+    margin-left: 0px;
+}

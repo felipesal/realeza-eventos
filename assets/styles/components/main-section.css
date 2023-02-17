@@ -5,9 +5,9 @@
 
 .main-section.-banner {
     padding-top: 0px;
-    padding-bottom: 50px;
-    height: 670px;
-    border-bottom: 10px solid var(--color2);
+    padding-bottom: 0px;
+    height: 800px;
+    border-bottom: 10px solid var(--black1);
 }
 
 .main-section .img-slider {
@@ -26,6 +26,10 @@
     align-items: center;
 }
 
+.main-section.-white.-contato{
+    border-bottom: none;
+}
+
 .main-section.-marsala .wrapper{
     flex-direction: row;
     align-items: center;
@@ -42,4 +46,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.position-form {
+    padding-top: 40px;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
 }
