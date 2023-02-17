@@ -1,5 +1,5 @@
-const slidesContainer = document.querySelector(".slides-container");
-const slide = document.querySelector(".slide");
+const slidesContainer = document.getElementById("photos-slides-container");
+const slide = document.getElementById("photos-slide");
 const prevButton = document.getElementById("slide-arrow-prev");
 const nextButton = document.getElementById("slide-arrow-next");
 
